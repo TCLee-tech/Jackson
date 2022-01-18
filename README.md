@@ -4,7 +4,7 @@
 <p>The Jackson Project</p>
 <p>https://github.com/FasterXML/jackson</p>
 
-Not professing to know everything...
+Some references...
 
 <p>One of the most important component: Jackson Object Mapper.</p>
 
