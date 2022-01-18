@@ -18,3 +18,12 @@
 |356-5-5059302       |    ***-*-**59302          |
 |78-19084-84         |    **-**084-84            |
 |1875-2788-9-008-1   |    ****- ****-9-008-1     |  
+
+<br>
+<p>To run file in Command Prompt:
+<ol>
+<li>Change directory to that holding Masked.java</li>
+<li> javac Masked.java (java compiler)</li>
+<li> java Masked</li> 
+</ol>
+  
