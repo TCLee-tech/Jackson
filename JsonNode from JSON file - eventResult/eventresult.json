@@ -1,0 +1,58 @@
+{
+    "eventResult": [
+    {
+    "name": "Team A vs Team B",
+    "markets": [
+    {
+    "market": "Asian Handicap",
+    "handicapValue": -1,
+    "selections": [
+    {
+    "name": "Team A +0.25",
+    "selectionCode": "A"
+    },
+    {
+    "name": "Team B -0.25",
+    "selectionCode": "H"
+    }
+    ]
+    },
+    {
+    "market": "Half Goal",
+    "handicapValue": -1.5,
+    "selections": [
+    {
+    "name": "Team A +1.5",
+    "selectionCode": "A"
+    },
+    {
+    "name": "Team B -1.5",
+    "selectionCode": "H"
+    }
+    ]
+    },
+    {
+    "market": "Total Goals Over/Under",
+    "handicapValue": 3.5,
+    "selections": [
+    {
+    "name": "Under 3.5",
+    "selectionCode": "L"
+    },
+    {
+    "name": "Over 3.5",
+    "selectionCode": "H"
+    }
+    ]
+    }
+    ],
+    "scores": [
+    {
+    "home": 1,
+    "away": 2
+    }
+    ]
+    }
+    ]
+   }
+   
